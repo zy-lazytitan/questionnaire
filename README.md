@@ -1,24 +1,27 @@
-# questionnaire
+# funny_winter_sports_questionnaire
 
-## Project setup
-```
-yarn install
-```
+一个冬奥运动项目的调查问卷，手机端，填写者回答大约20个问题，系统基于答案计算出最适合他的冬奥项目并反馈，反馈形式如下
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![image-20220128211755657](C:\Users\pc\AppData\Roaming\Typora\typora-user-images\image-20220128211755657.png)
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 问题内容
+
+问卷组2.4上交
+
+### 前端页面
+
+问卷页面形式不限
+
+反馈页面布局他们给，mini的图像他们给，文案也是他们给
+
+### 数据库
+
+首先我想知道用不用，我觉得直接写在前端里就行
+
+他们需要一个统计，表内容有学号，每道题的答案，最终的项目，统计各种的百分比之类的
+
+### DDL
+
+2.2交页面设计，2.6交成果
